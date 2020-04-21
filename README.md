@@ -1,6 +1,6 @@
 # Forging-Magnetism
-Project to find how different variables affect the final hardness of metal after quenching.
 =============
+Project to find how different variables affect the final hardness of metal after quenching.
 
 ### Description
 ---------------
@@ -8,6 +8,10 @@ This repository details a Jupyter notebook that contains code to analyze the cur
 
 ### Installation
 ----------------
+Install Jupyter notebooks and Python. Visit embedded links for assistance in installation
+-For Jupyter: https://jupyter.org/
+
+-For Python: https://www.python.org/
 
 ```
 gem install github-markup
