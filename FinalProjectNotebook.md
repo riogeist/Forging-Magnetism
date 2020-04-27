@@ -136,10 +136,13 @@ disorder at higher temperatures.
 --------
 #### Model 1
 def magnetizationDueToTemp(m0,f,tol,u,J,kB):
+
     '''
+    
     Description: function that reads in constants specific to a ferromagnetic material. Function then uses the relaxation method to find 
     solutions of the magnetism for a range of temperatures, returning the array of magnetization solutions and the      
     corresponding temperature array.
+    
     Paramaters: m0  - initial magnetization strength of ferromagnetic material
                 f   - inputted function to describe strength of magnetization due to temperature
                 tol - desired tolerance of solutions
@@ -147,8 +150,8 @@ def magnetizationDueToTemp(m0,f,tol,u,J,kB):
                 J   - coupling constant of the ferromagnetic material
                 kB  - Boltzmann's constant
                 
-   Returns: magArray - array of magnetizations values
-            magTemp  - array of temperature values which correlate to magArray solutions
+    Returns: magArray - array of magnetizations values
+             magTemp  - array of temperature values which correlate to magArray solutions	   
    '''
 
 #### Model 2
