@@ -135,7 +135,7 @@ disorder at higher temperatures.
 ### Code
 --------
 #### Model 1
-def magnetizationDueToTemp(m0,f,tol,u,J,kB):
+    def magnetizationDueToTemp(m0,f,tol,u,J,kB):
 
     '''
     
@@ -152,7 +152,7 @@ def magnetizationDueToTemp(m0,f,tol,u,J,kB):
                 
     Returns: magArray - array of magnetizations values
              magTemp  - array of temperature values which correlate to magArray solutions	   
-   '''
+    '''
 
 #### Model 2
 in creation
