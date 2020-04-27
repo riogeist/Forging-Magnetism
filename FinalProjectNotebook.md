@@ -62,11 +62,11 @@ in creation
     
 ### References
 --------------
-[1] - http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/magmom.html
-[2] - http://mriquestions.com/magnetic-dipole-moment.html
-[3] - http://stanford.edu/~jeffjar/statmech2/intro4.html
-[4] - Newman’s Computational Physics
-[5] - https://web.stanford.edu/~peastman/statmech/phasetransitions.html
-[6] - Oxford dictionary
-[7] - http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/ferro.html
-[8] - http://micro.stanford.edu/~caiwei/me334/Chap12_Ising_Model_v04.pdf
+[1] - http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/magmom.html//
+[2] - http://mriquestions.com/magnetic-dipole-moment.html//
+[3] - http://stanford.edu/~jeffjar/statmech2/intro4.html//
+[4] - Newman’s Computational Physics//
+[5] - https://web.stanford.edu/~peastman/statmech/phasetransitions.html//
+[6] - Oxford dictionary//
+[7] - http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/ferro.html//
+[8] - http://micro.stanford.edu/~caiwei/me334/Chap12_Ising_Model_v04.pdf//
