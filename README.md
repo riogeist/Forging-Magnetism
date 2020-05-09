@@ -2,7 +2,7 @@
 
 ### Summary
 ----------
-Project to find how different variables affect the final hardness of metal after quenching.
+Project to explain why ferromagnetic materials lose their magnetic properties at high temperatures.
 
 ### Description
 ---------------
